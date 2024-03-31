@@ -50,6 +50,3 @@
 
 <p>Contributions are welcome! Please feel free to submit pull requests or open issues to discuss proposed changes or report bugs.</p>
 
-<h2>📝 License</h2>
-
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE.md</a> file for details.</p>
