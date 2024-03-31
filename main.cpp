@@ -9,10 +9,6 @@
 #include <unistd.h>
 #include <vector>
 using namespace std;
-//ID 206735961
-//Name:Lidor Pahima
-//Notes:I added more indication to know if everything 
-//is working properly i think it will be easier to understand the code
 
 map<string, int> sockets; // Map to store client names and their respective sockets
 pthread_mutex_t sockets_mutex = PTHREAD_MUTEX_INITIALIZER; // Will use later to lock 
