@@ -1,4 +1,4 @@
-<h1 align="center">C++ TCP Server</h1>
+<h1 align="center">🗣️ C++ TCP Chat Server 🗣️</h1>
 
 <p>This repository contains a multi-threaded TCP server implemented in C++. It's designed to handle multiple client connections simultaneously, with each client being served in a separate thread.</p>
 
